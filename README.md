@@ -92,8 +92,7 @@ jupyter notebook query_expansion_exp.ipynb
 ### Article
 
 Read the full explanation here:
-
-[Add your blog link here]
+[https://veerkhot.com/articles/query_expansion.html]
 
 ### Connect
 
